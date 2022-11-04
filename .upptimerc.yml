@@ -35,8 +35,8 @@ status-website:
   cname: status.dnswarden.com
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/dnswarden/dnswarden.github.io/main/img/favicon.ico
-  name: Upptime
-  introTitle: "Dnswarden Status"
+  name: Dnswarden
+  introTitle: "Dns Status"
   introMessage: Uses [upptime](https://github.com/upptime/upptime) for status checks, which completely runs on github actions.
   navbar:
     - title: Status

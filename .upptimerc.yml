@@ -1,31 +1,48 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: dnswarden # Your GitHub organization or username, where this repository lives
+repo: status # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: Asia Front-End
+    url: $ASIA_FE
+  - name: Asia Back-End
+    url: $ASIA_BE
+  - name: Europe Front-End
+    url: $EU_FE
+  - name: Europe Back-End
+    url: $EU_BE
+  - name: North America Front-End
+    url: $NA_FE
+  - name: North America Back-End
+    url: $NA_BE
+  - name: AU,Africa,SA Front-End
+    url: $AU_AF_SA_FE
+  - name: AU,Africa,SA Back-End
+    url: $AU_AF_SA_BE
+  - name: Search API
+    url: $SEARCH_API
+  - name: Backup Front-End
+    url: $BACKUP_FE
+  - name: Backup Back-End
+    url: $BACKUP_BE
 
+assignees:
+  - bhanupratapys
+  
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
+  cname: status.dnswarden.com
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://raw.githubusercontent.com/dnswarden/dnswarden.github.io/main/img/favicon.ico
   name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introTitle: "Dnswarden Status"
+  introMessage: Uses [upptime](https://github.com/upptime/upptime) for status checks, which completely runs on github actions.
   navbar:
     - title: Status
       href: /
     - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+      href: https://github.com/bhanupratapys/dnswarden
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration

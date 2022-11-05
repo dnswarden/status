@@ -28,7 +28,16 @@ sites:
 
 assignees:
   - bhanupratapys
-  
+
+workflowSchedule:
+  graphs: "6 * * * *"
+  responseTime: "6 * * * *"
+  staticSite: "6 * * * *"
+  summary: "6 * * * *"
+  updateTemplate: "6 * * * *"
+  updates: "0 3 * * *"
+  uptime: "*/5 * * * *"  
+
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there

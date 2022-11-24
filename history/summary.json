@@ -30,7 +30,7 @@
     "uptimeYear": "100.00%",
     "time": 298,
     "timeDay": 278,
-    "timeWeek": 292,
+    "timeWeek": 288,
     "timeMonth": 298,
     "timeYear": 298,
     "dailyMinutesDown": {}
@@ -48,7 +48,7 @@
     "uptimeYear": "100.00%",
     "time": 302,
     "timeDay": 281,
-    "timeWeek": 310,
+    "timeWeek": 311,
     "timeMonth": 302,
     "timeYear": 302,
     "dailyMinutesDown": {}
@@ -166,18 +166,20 @@
     "url": "$BACKUP_FE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "backup-front-end",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 128,
     "timeDay": 115,
-    "timeWeek": 123,
+    "timeWeek": 124,
     "timeMonth": 128,
     "timeYear": 128,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-11-24": 0
+    }
   },
   {
     "name": "Backup Back-End",

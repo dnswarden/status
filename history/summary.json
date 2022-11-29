@@ -6,8 +6,8 @@
     "slug": "asia-front-end",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 379,
@@ -15,7 +15,9 @@
     "timeWeek": 404,
     "timeMonth": 379,
     "timeYear": 379,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-11-29": 1
+    }
   },
   {
     "name": "Asia Back-End",
@@ -24,7 +26,7 @@
     "slug": "asia-back-end",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +35,9 @@
     "timeWeek": 302,
     "timeMonth": 300,
     "timeYear": 300,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-11-29": 1
+    }
   },
   {
     "name": "Europe Front-End",
@@ -58,10 +62,10 @@
     "url": "$EU_BE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "europe-back-end",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 226,
@@ -69,17 +73,19 @@
     "timeWeek": 232,
     "timeMonth": 226,
     "timeYear": 226,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-11-29": 1
+    }
   },
   {
     "name": "North America Front-End",
     "url": "$NA_FE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "north-america-front-end",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 99,
@@ -87,7 +93,9 @@
     "timeWeek": 106,
     "timeMonth": 99,
     "timeYear": 99,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-11-29": 1
+    }
   },
   {
     "name": "North America Back-End",
@@ -130,10 +138,10 @@
     "url": "$AU_AF_SA_BE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "au-africa-sa-back-end",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 287,
@@ -141,7 +149,9 @@
     "timeWeek": 284,
     "timeMonth": 287,
     "timeYear": 287,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-11-29": 1
+    }
   },
   {
     "name": "Search API",

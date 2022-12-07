@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 381,
-    "timeDay": 390,
-    "timeWeek": 389,
+    "timeDay": 385,
+    "timeWeek": 388,
     "timeMonth": 382,
     "timeYear": 381,
     "dailyMinutesDown": {}
@@ -29,8 +29,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 304,
-    "timeDay": 282,
-    "timeWeek": 315,
+    "timeDay": 279,
+    "timeWeek": 314,
     "timeMonth": 304,
     "timeYear": 304,
     "dailyMinutesDown": {}
@@ -64,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 226,
-    "timeDay": 237,
+    "time": 227,
+    "timeDay": 238,
     "timeWeek": 228,
     "timeMonth": 226,
-    "timeYear": 226,
+    "timeYear": 227,
     "dailyMinutesDown": {}
   },
   {
@@ -137,7 +137,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 291,
-    "timeDay": 417,
+    "timeDay": 414,
     "timeWeek": 304,
     "timeMonth": 290,
     "timeYear": 291,
@@ -148,9 +148,9 @@
     "url": "$SEARCH_API",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "search-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -159,7 +159,9 @@
     "timeWeek": 239,
     "timeMonth": 237,
     "timeYear": 235,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-12-07": 0
+    }
   },
   {
     "name": "Backup Front-End",
@@ -172,11 +174,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 135,
-    "timeDay": 163,
-    "timeWeek": 150,
-    "timeMonth": 134,
-    "timeYear": 135,
+    "time": 136,
+    "timeDay": 175,
+    "timeWeek": 151,
+    "timeMonth": 135,
+    "timeYear": 136,
     "dailyMinutesDown": {}
   },
   {
@@ -185,16 +187,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "backup-back-end",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "99.79%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 114,
     "timeDay": 107,
     "timeWeek": 100,
     "timeMonth": 115,
     "timeYear": 114,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-12-07": 3
+    }
   }
 ]

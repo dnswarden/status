@@ -148,10 +148,10 @@
     "url": "$SEARCH_API",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "search-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 235,
@@ -159,7 +159,9 @@
     "timeWeek": 241,
     "timeMonth": 239,
     "timeYear": 235,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-12-08": 1
+    }
   },
   {
     "name": "Backup Front-End",
@@ -168,7 +170,7 @@
     "slug": "backup-front-end",
     "status": "up",
     "uptime": "97.02%",
-    "uptimeDay": "0.09%",
+    "uptimeDay": "0.19%",
     "uptimeWeek": "85.71%",
     "uptimeMonth": "96.71%",
     "uptimeYear": "97.02%",

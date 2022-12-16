@@ -166,10 +166,10 @@
     "url": "$BACKUP_FE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "backup-front-end",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 148,
@@ -177,28 +177,24 @@
     "timeWeek": 143,
     "timeMonth": 153,
     "timeYear": 148,
-    "dailyMinutesDown": {
-      "2022-12-16": 1
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Backup Back-End",
     "url": "$BACKUP_BE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "backup-back-end",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 126,
-    "timeDay": 94,
+    "timeDay": 96,
     "timeWeek": 152,
     "timeMonth": 131,
     "timeYear": 126,
-    "dailyMinutesDown": {
-      "2022-12-16": 1
-    }
+    "dailyMinutesDown": {}
   }
 ]

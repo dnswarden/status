@@ -4,10 +4,10 @@
     "url": "$ASIA_FE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "asia-front-end",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.61%",
-    "uptimeWeek": "99.94%",
+    "uptimeDay": "99.72%",
+    "uptimeWeek": "99.96%",
     "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
     "time": 375,
@@ -16,7 +16,7 @@
     "timeMonth": 378,
     "timeYear": 375,
     "dailyMinutesDown": {
-      "2022-12-17": 6
+      "2022-12-17": 4
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "$ASIA_BE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "asia-back-end",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.64%",
-    "uptimeWeek": "99.95%",
+    "uptimeDay": "99.75%",
+    "uptimeWeek": "99.96%",
     "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
     "time": 299,
     "timeDay": 291,
-    "timeWeek": 286,
+    "timeWeek": 287,
     "timeMonth": 297,
     "timeYear": 299,
     "dailyMinutesDown": {
-      "2022-12-17": 5
+      "2022-12-17": 4
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "$EU_FE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "europe-front-end",
-    "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.64%",
-    "uptimeWeek": "99.95%",
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "99.79%",
+    "uptimeWeek": "99.97%",
     "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptimeYear": "100.00%",
     "time": 299,
     "timeDay": 273,
     "timeWeek": 289,
     "timeMonth": 300,
     "timeYear": 299,
     "dailyMinutesDown": {
-      "2022-12-17": 6
+      "2022-12-17": 3
     }
   },
   {
@@ -64,19 +64,19 @@
     "url": "$EU_BE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "europe-back-end",
-    "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.02%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.98%",
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "99.82%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "100.00%",
     "time": 223,
     "timeDay": 197,
-    "timeWeek": 215,
+    "timeWeek": 214,
     "timeMonth": 223,
     "timeYear": 223,
     "dailyMinutesDown": {
-      "2022-12-17": 14
+      "2022-12-17": 3
     }
   },
   {
@@ -85,18 +85,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "north-america-front-end",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "98.96%",
-    "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.98%",
+    "uptime": "99.97%",
+    "uptimeDay": "98.81%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.97%",
     "time": 103,
     "timeDay": 102,
     "timeWeek": 104,
     "timeMonth": 105,
     "timeYear": 103,
     "dailyMinutesDown": {
-      "2022-12-17": 15
+      "2022-12-17": 17
     }
   },
   {
@@ -105,18 +105,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "north-america-back-end",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.01%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.98%",
+    "uptime": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 64,
     "timeDay": 49,
     "timeWeek": 49,
     "timeMonth": 67,
     "timeYear": 64,
     "dailyMinutesDown": {
-      "2022-12-17": 14
+      "2022-12-17": 1
     }
   },
   {
@@ -125,18 +125,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "au-africa-sa-front-end",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.01%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.98%",
+    "uptime": "99.99%",
+    "uptimeDay": "99.61%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 350,
     "timeDay": 338,
     "timeWeek": 347,
     "timeMonth": 348,
     "timeYear": 350,
     "dailyMinutesDown": {
-      "2022-12-17": 14
+      "2022-12-17": 6
     }
   },
   {
@@ -145,17 +145,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "au-africa-sa-back-end",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "99.64%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 288,
     "timeDay": 268,
     "timeWeek": 280,
     "timeMonth": 287,
     "timeYear": 288,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-12-17": 5
+    }
   },
   {
     "name": "Search API",
@@ -181,18 +183,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "backup-front-end",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "99.61%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 148,
     "timeDay": 122,
     "timeWeek": 141,
     "timeMonth": 153,
     "timeYear": 148,
     "dailyMinutesDown": {
-      "2022-12-17": 0
+      "2022-12-17": 6
     }
   },
   {
@@ -201,16 +203,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "backup-back-end",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "99.64%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 125,
     "timeDay": 78,
     "timeWeek": 150,
     "timeMonth": 130,
     "timeYear": 125,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-12-17": 5
+    }
   }
 ]

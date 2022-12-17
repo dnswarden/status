@@ -4,54 +4,60 @@
     "url": "$ASIA_FE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "asia-front-end",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.45%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
     "time": 375,
     "timeDay": 349,
     "timeWeek": 359,
     "timeMonth": 378,
     "timeYear": 375,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-12-17": 8
+    }
   },
   {
     "name": "Asia Back-End",
     "url": "$ASIA_BE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "asia-back-end",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.49%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
     "time": 299,
     "timeDay": 288,
     "timeWeek": 286,
     "timeMonth": 297,
     "timeYear": 299,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-12-17": 7
+    }
   },
   {
     "name": "Europe Front-End",
     "url": "$EU_FE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "europe-front-end",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.53%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
     "time": 299,
     "timeDay": 269,
     "timeWeek": 289,
     "timeMonth": 300,
     "timeYear": 299,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-12-17": 7
+    }
   },
   {
     "name": "Europe Back-End",
@@ -59,17 +65,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "europe-back-end",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "99.67%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 223,
     "timeDay": 195,
     "timeWeek": 214,
     "timeMonth": 223,
     "timeYear": 223,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-12-17": 5
+    }
   },
   {
     "name": "North America Front-End",
@@ -77,17 +85,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "north-america-front-end",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "99.60%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 103,
     "timeDay": 101,
     "timeWeek": 103,
     "timeMonth": 105,
     "timeYear": 103,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-12-17": 6
+    }
   },
   {
     "name": "North America Back-End",
@@ -95,17 +105,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "north-america-back-end",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "99.65%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 64,
     "timeDay": 48,
     "timeWeek": 49,
     "timeMonth": 67,
     "timeYear": 64,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-12-17": 5
+    }
   },
   {
     "name": "AU,Africa,SA Front-End",
@@ -113,17 +125,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "au-africa-sa-front-end",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "99.68%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 350,
     "timeDay": 336,
     "timeWeek": 347,
     "timeMonth": 348,
     "timeYear": 350,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-12-17": 5
+    }
   },
   {
     "name": "AU,Africa,SA Back-End",
@@ -131,17 +145,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "au-africa-sa-back-end",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "99.72%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 288,
     "timeDay": 266,
     "timeWeek": 280,
     "timeMonth": 287,
     "timeYear": 288,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-12-17": 4
+    }
   },
   {
     "name": "Search API",
@@ -167,17 +183,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "backup-front-end",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "99.75%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 148,
     "timeDay": 119,
     "timeWeek": 141,
     "timeMonth": 152,
     "timeYear": 148,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-12-17": 4
+    }
   },
   {
     "name": "Backup Back-End",
@@ -185,16 +203,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "backup-back-end",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "99.77%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 125,
     "timeDay": 77,
     "timeWeek": 150,
     "timeMonth": 130,
     "timeYear": 125,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-12-17": 3
+    }
   }
 ]

@@ -4,19 +4,19 @@
     "url": "$ASIA_FE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "asia-front-end",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.45%",
-    "uptimeWeek": "99.92%",
+    "uptimeDay": "99.38%",
+    "uptimeWeek": "99.91%",
     "uptimeMonth": "99.98%",
     "uptimeYear": "99.99%",
     "time": 375,
-    "timeDay": 349,
+    "timeDay": 351,
     "timeWeek": 359,
     "timeMonth": 378,
     "timeYear": 375,
     "dailyMinutesDown": {
-      "2022-12-17": 8
+      "2022-12-17": 9
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "$ASIA_BE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "asia-back-end",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.49%",
-    "uptimeWeek": "99.93%",
+    "uptimeDay": "99.41%",
+    "uptimeWeek": "99.92%",
     "uptimeMonth": "99.98%",
     "uptimeYear": "99.99%",
     "time": 299,
-    "timeDay": 288,
+    "timeDay": 289,
     "timeWeek": 286,
     "timeMonth": 297,
     "timeYear": 299,
     "dailyMinutesDown": {
-      "2022-12-17": 7
+      "2022-12-17": 9
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "$EU_FE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "europe-front-end",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.53%",
-    "uptimeWeek": "99.93%",
+    "uptimeDay": "99.45%",
+    "uptimeWeek": "99.92%",
     "uptimeMonth": "99.98%",
     "uptimeYear": "99.99%",
     "time": 299,
-    "timeDay": 269,
+    "timeDay": 272,
     "timeWeek": 289,
     "timeMonth": 300,
     "timeYear": 299,
     "dailyMinutesDown": {
-      "2022-12-17": 7
+      "2022-12-17": 8
     }
   },
   {
@@ -66,8 +66,8 @@
     "slug": "europe-back-end",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.67%",
-    "uptimeWeek": "99.95%",
+    "uptimeDay": "99.57%",
+    "uptimeWeek": "99.94%",
     "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
     "time": 223,
@@ -76,7 +76,7 @@
     "timeMonth": 223,
     "timeYear": 223,
     "dailyMinutesDown": {
-      "2022-12-17": 5
+      "2022-12-17": 6
     }
   },
   {
@@ -86,9 +86,9 @@
     "slug": "north-america-front-end",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.60%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.50%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.99%",
     "time": 103,
     "timeDay": 101,
@@ -96,7 +96,7 @@
     "timeMonth": 105,
     "timeYear": 103,
     "dailyMinutesDown": {
-      "2022-12-17": 6
+      "2022-12-17": 7
     }
   },
   {
@@ -106,8 +106,8 @@
     "slug": "north-america-back-end",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.65%",
-    "uptimeWeek": "99.95%",
+    "uptimeDay": "99.55%",
+    "uptimeWeek": "99.94%",
     "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
     "time": 64,
@@ -116,7 +116,7 @@
     "timeMonth": 67,
     "timeYear": 64,
     "dailyMinutesDown": {
-      "2022-12-17": 5
+      "2022-12-17": 6
     }
   },
   {
@@ -126,8 +126,8 @@
     "slug": "au-africa-sa-front-end",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.68%",
-    "uptimeWeek": "99.95%",
+    "uptimeDay": "99.58%",
+    "uptimeWeek": "99.94%",
     "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
     "time": 350,
@@ -136,7 +136,7 @@
     "timeMonth": 348,
     "timeYear": 350,
     "dailyMinutesDown": {
-      "2022-12-17": 5
+      "2022-12-17": 6
     }
   },
   {
@@ -146,8 +146,8 @@
     "slug": "au-africa-sa-back-end",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.72%",
-    "uptimeWeek": "99.96%",
+    "uptimeDay": "99.61%",
+    "uptimeWeek": "99.94%",
     "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
     "time": 288,
@@ -156,7 +156,7 @@
     "timeMonth": 287,
     "timeYear": 288,
     "dailyMinutesDown": {
-      "2022-12-17": 4
+      "2022-12-17": 6
     }
   },
   {
@@ -184,8 +184,8 @@
     "slug": "backup-front-end",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.75%",
-    "uptimeWeek": "99.96%",
+    "uptimeDay": "99.64%",
+    "uptimeWeek": "99.95%",
     "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
     "time": 148,
@@ -194,7 +194,7 @@
     "timeMonth": 152,
     "timeYear": 148,
     "dailyMinutesDown": {
-      "2022-12-17": 4
+      "2022-12-17": 5
     }
   },
   {
@@ -204,8 +204,8 @@
     "slug": "backup-back-end",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.77%",
-    "uptimeWeek": "99.97%",
+    "uptimeDay": "99.66%",
+    "uptimeWeek": "99.95%",
     "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
     "time": 125,
@@ -214,7 +214,7 @@
     "timeMonth": 130,
     "timeYear": 125,
     "dailyMinutesDown": {
-      "2022-12-17": 3
+      "2022-12-17": 5
     }
   }
 ]

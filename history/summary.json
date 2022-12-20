@@ -168,18 +168,16 @@
     "slug": "backup-front-end",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.83%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 161,
     "timeDay": 668,
     "timeWeek": 220,
     "timeMonth": 173,
     "timeYear": 161,
-    "dailyMinutesDown": {
-      "2022-12-20": 2
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Backup Back-End",
@@ -188,8 +186,8 @@
     "slug": "backup-back-end",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.86%",
-    "uptimeWeek": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 124,
@@ -197,8 +195,6 @@
     "timeWeek": 93,
     "timeMonth": 133,
     "timeYear": 124,
-    "dailyMinutesDown": {
-      "2022-12-20": 2
-    }
+    "dailyMinutesDown": {}
   }
 ]
